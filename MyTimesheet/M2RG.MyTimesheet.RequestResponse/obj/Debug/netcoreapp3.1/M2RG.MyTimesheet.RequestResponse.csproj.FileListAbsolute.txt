@@ -1,0 +1,12 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.csproj.CopyComplete
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RequestResponse\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RequestResponse.pdb

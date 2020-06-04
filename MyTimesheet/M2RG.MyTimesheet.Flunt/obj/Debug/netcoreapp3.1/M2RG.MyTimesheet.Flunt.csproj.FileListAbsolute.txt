@@ -1,0 +1,9 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Flunt\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.pdb

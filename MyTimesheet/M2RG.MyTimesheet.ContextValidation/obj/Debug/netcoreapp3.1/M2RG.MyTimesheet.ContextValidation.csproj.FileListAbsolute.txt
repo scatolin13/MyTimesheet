@@ -1,0 +1,9 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.ContextValidation\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.ContextValidation.pdb

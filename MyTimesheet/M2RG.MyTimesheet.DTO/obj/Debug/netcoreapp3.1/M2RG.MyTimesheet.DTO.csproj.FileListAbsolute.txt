@@ -1,0 +1,8 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.pdb

@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\M2RG.MyTimesheet.Flunt\M2RG.MyTimesheet.Flunt.csproj" />
+  </ItemGroup>
+
 </Project>

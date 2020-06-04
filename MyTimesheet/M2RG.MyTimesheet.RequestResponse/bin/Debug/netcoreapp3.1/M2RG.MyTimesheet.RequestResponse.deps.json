@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M2RG.MyTimesheet.RequestResponse/1.0.0": {
+        "dependencies": {
+          "M2RG.MyTimesheet.Flunt": "1.0.0"
+        },
+        "runtime": {
+          "M2RG.MyTimesheet.RequestResponse.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.Flunt/1.0.0": {
+        "runtime": {
+          "M2RG.MyTimesheet.Flunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M2RG.MyTimesheet.RequestResponse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M2RG.MyTimesheet.Flunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

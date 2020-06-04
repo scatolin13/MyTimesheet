@@ -1,0 +1,9 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Application\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Application.pdb

@@ -1,0 +1,12 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.runtimeconfig.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.runtimeconfig.dev.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.genruntimeconfig.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.pdb

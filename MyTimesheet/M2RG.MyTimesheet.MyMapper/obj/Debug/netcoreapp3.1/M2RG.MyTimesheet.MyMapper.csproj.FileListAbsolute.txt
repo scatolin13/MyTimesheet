@@ -3,3 +3,7 @@ D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\bin\Debug\netcoreapp3.1
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.csprojAssemblyReference.cache
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.AssemblyInfoInputs.cache
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.MyMapper\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.MyMapper.pdb

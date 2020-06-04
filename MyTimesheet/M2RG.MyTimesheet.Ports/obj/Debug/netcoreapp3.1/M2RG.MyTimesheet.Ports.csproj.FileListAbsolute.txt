@@ -1,0 +1,9 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Ports\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Ports.pdb

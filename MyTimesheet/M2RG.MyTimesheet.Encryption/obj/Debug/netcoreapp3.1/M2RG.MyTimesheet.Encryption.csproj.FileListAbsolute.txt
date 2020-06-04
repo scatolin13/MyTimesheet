@@ -1,0 +1,9 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Encryption\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.pdb
