@@ -1,8 +1,7 @@
-﻿using M2RG.MyTimesheet.RequestResponse.BaseDtos;
+﻿using M2RG.MyTimesheet.Flunt.Notifications;
+using M2RG.MyTimesheet.RequestResponse.BaseDtos;
 using M2RG.MyTimesheet.RequestResponse.Enumerations;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace M2RG.MyTimesheet.RequestResponse
 {
