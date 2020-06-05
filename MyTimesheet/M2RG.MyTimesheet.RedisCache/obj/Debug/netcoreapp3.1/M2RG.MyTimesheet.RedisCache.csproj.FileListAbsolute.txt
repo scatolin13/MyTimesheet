@@ -1,0 +1,5 @@
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.deps.json
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.AssemblyInfoInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.AssemblyInfo.cs
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.csprojAssemblyReference.cache
