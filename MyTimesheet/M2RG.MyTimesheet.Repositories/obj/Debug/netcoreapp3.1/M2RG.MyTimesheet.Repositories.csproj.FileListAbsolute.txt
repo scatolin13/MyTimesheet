@@ -10,3 +10,12 @@ D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreap
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.csproj.CoreCompileInputs.cache
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.dll
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Domain.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Domain.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Encryption.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.Repositories\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.Repositories.csproj.CopyComplete

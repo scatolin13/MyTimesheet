@@ -5,14 +5,10 @@
         public bool Validator(IContextWorker contextWorker)
         {
             if (contextWorker.ValidateAdmin())
-            {
                 return true;
-            }
 
             if (!contextWorker.ValidateCompany())
-            {
                 return false;
-            }
 
             return true;
         }

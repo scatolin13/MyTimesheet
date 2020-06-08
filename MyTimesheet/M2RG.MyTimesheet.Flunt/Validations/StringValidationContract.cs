@@ -25,7 +25,6 @@ namespace M2RG.MyTimesheet.Flunt.Validations
             return this;
         }
 
-
         public EntityBase IsNullOrEmpty(string val, string key, string property, string message)
         {
             if (!string.IsNullOrEmpty(val))
@@ -253,9 +252,7 @@ namespace M2RG.MyTimesheet.Flunt.Validations
         public EntityBase HasMinLengthIfNotNullOrEmpty(string text, int min, string key, string property, string message)
         {
             if (!string.IsNullOrEmpty(text) && text.Length < min)
-            {
                 AddNotification(key, property, message);
-            }
 
             return this;
         }
@@ -263,9 +260,7 @@ namespace M2RG.MyTimesheet.Flunt.Validations
         public EntityBase HasMaxLengthIfNotNullOrEmpty(string text, int max, string key, string property, string message)
         {
             if (!string.IsNullOrEmpty(text) && text.Length > max)
-            {
                 AddNotification(key, property, message);
-            }
 
             return this;
         }
@@ -273,9 +268,19 @@ namespace M2RG.MyTimesheet.Flunt.Validations
         public EntityBase HasExactLengthIfNotNullOrEmpty(string text, int len, string key, string property, string message)
         {
             if (!string.IsNullOrEmpty(text) && text.Length != len)
-            {
                 AddNotification(key, property, message);
-            }
+
+            return this;
+        }
+
+        public EntityBase IsPassword(string password, string key, string property, string message)
+        {
+            Regex regex = new Regex(@"^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$");
+
+            var isValidated = regex.IsMatch(password);
+
+            if (!isValidated)
+                AddNotification(key, property, message);
 
             return this;
         }

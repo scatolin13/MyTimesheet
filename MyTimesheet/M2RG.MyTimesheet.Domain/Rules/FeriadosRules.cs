@@ -12,12 +12,10 @@ namespace M2RG.MyTimesheet.Domain.Models
 
         public Feriados(int id)
         {
-            IsGreaterOrEqualsThan(id, 0, EntityName, "ID", "deve ser maior que zero");
+            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
 
             if (IsValid)
-            {
                 Id = id;
-            }
         }
 
         public Feriados Adicionar(DateTime data, string descricao, bool feriadoFixo, bool feriadoNacional)
@@ -37,12 +35,10 @@ namespace M2RG.MyTimesheet.Domain.Models
 
         public Feriados VincularEmpresa(int empresaId)
         {
-            IsGreaterOrEqualsThan(empresaId, 0, EntityName, "Empresa ID", "deve ser maior que zero");
+            IsGreaterThan(empresaId, 0, EntityName, "Empresa ID", "deve ser maior que zero");
 
             if (IsValid)
-            {
                 EmpresaId = empresaId;
-            }
 
             return this;
         }

@@ -9,9 +9,9 @@ namespace M2RG.MyTimesheet.Encryption
     {
         private const string ENCRYPTION_KEY = "MyLongKey_WithSpecialChacter@10293848567";
 
-        private readonly byte[] SALT = Encoding.ASCII.GetBytes(ENCRYPTION_KEY.Length.ToString());
+        private readonly static byte[] SALT = Encoding.ASCII.GetBytes(ENCRYPTION_KEY.Length.ToString());
 
-        public string Encrypt(string inputText)
+        public static string Encrypt(string inputText)
         {
             using (PasswordDeriveBytes SecretKey = new PasswordDeriveBytes(ENCRYPTION_KEY, SALT))
             {
@@ -36,7 +36,7 @@ namespace M2RG.MyTimesheet.Encryption
             }
         }
 
-        public string Decrypt(string inputText)
+        public static string Decrypt(string inputText)
         {
             //Ocorreu com o id 2Dx+fmXobm5Fpk8zz7rSAg==, sinal de + virou espaço
             inputText = inputText.Replace(' ', '+');

@@ -3,3 +3,7 @@ D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\bin\Debug\netcoreapp3
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.AssemblyInfoInputs.cache
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.AssemblyInfo.cs
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.RedisCache\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.RedisCache.pdb

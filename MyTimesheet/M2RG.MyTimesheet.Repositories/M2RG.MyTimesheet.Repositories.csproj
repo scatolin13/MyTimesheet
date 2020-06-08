@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\M2RG.MyTimesheet.Domain\M2RG.MyTimesheet.Domain.csproj" />
+    <ProjectReference Include="..\M2RG.MyTimesheet.DTO\M2RG.MyTimesheet.DTO.csproj" />
   </ItemGroup>
 
 </Project>

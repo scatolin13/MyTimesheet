@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "M2RG.MyTimesheet.Repositories/1.0.0": {
         "dependencies": {
+          "M2RG.MyTimesheet.DTO": "1.0.0",
+          "M2RG.MyTimesheet.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "3.1.4",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.4",
           "MySql.Data.EntityFrameworkCore": "8.0.20"
@@ -1223,6 +1225,33 @@
             "fileVersion": "1.0.24212.1"
           }
         }
+      },
+      "M2RG.MyTimesheet.Domain/1.0.0": {
+        "dependencies": {
+          "M2RG.MyTimesheet.Encryption": "1.0.0",
+          "M2RG.MyTimesheet.Flunt": "1.0.0"
+        },
+        "runtime": {
+          "M2RG.MyTimesheet.Domain.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.DTO/1.0.0": {
+        "dependencies": {
+          "M2RG.MyTimesheet.Flunt": "1.0.0"
+        },
+        "runtime": {
+          "M2RG.MyTimesheet.DTO.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.Encryption/1.0.0": {
+        "runtime": {
+          "M2RG.MyTimesheet.Encryption.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.Flunt/1.0.0": {
+        "runtime": {
+          "M2RG.MyTimesheet.Flunt.dll": {}
+        }
       }
     }
   },
@@ -2085,6 +2114,26 @@
       "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "M2RG.MyTimesheet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M2RG.MyTimesheet.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M2RG.MyTimesheet.Encryption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "M2RG.MyTimesheet.Flunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

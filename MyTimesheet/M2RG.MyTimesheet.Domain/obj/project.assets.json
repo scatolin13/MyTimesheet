@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "M2RG.MyTimesheet.Encryption/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/M2RG.MyTimesheet.Encryption.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/M2RG.MyTimesheet.Encryption.dll": {}
+        }
+      },
       "M2RG.MyTimesheet.Flunt/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "M2RG.MyTimesheet.Encryption/1.0.0": {
+      "type": "project",
+      "path": "../M2RG.MyTimesheet.Encryption/M2RG.MyTimesheet.Encryption.csproj",
+      "msbuildProject": "../M2RG.MyTimesheet.Encryption/M2RG.MyTimesheet.Encryption.csproj"
+    },
     "M2RG.MyTimesheet.Flunt/1.0.0": {
       "type": "project",
       "path": "../M2RG.MyTimesheet.Flunt/M2RG.MyTimesheet.Flunt.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "M2RG.MyTimesheet.Encryption >= 1.0.0",
       "M2RG.MyTimesheet.Flunt >= 1.0.0"
     ]
   },
@@ -57,6 +73,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Encryption\\M2RG.MyTimesheet.Encryption.csproj": {
+              "projectPath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Encryption\\M2RG.MyTimesheet.Encryption.csproj"
+            },
             "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Flunt\\M2RG.MyTimesheet.Flunt.csproj": {
               "projectPath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Flunt\\M2RG.MyTimesheet.Flunt.csproj"
             }

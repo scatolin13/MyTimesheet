@@ -1901,6 +1901,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "M2RG.MyTimesheet.Encryption": "1.0.0",
           "M2RG.MyTimesheet.Flunt": "1.0.0"
         },
         "compile": {
@@ -1908,6 +1909,29 @@
         },
         "runtime": {
           "bin/placeholder/M2RG.MyTimesheet.Domain.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "M2RG.MyTimesheet.Flunt": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/M2RG.MyTimesheet.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/M2RG.MyTimesheet.DTO.dll": {}
+        }
+      },
+      "M2RG.MyTimesheet.Encryption/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/M2RG.MyTimesheet.Encryption.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/M2RG.MyTimesheet.Encryption.dll": {}
         }
       },
       "M2RG.MyTimesheet.Flunt/1.0.0": {
@@ -6575,6 +6599,16 @@
       "path": "../M2RG.MyTimesheet.Domain/M2RG.MyTimesheet.Domain.csproj",
       "msbuildProject": "../M2RG.MyTimesheet.Domain/M2RG.MyTimesheet.Domain.csproj"
     },
+    "M2RG.MyTimesheet.DTO/1.0.0": {
+      "type": "project",
+      "path": "../M2RG.MyTimesheet.DTO/M2RG.MyTimesheet.DTO.csproj",
+      "msbuildProject": "../M2RG.MyTimesheet.DTO/M2RG.MyTimesheet.DTO.csproj"
+    },
+    "M2RG.MyTimesheet.Encryption/1.0.0": {
+      "type": "project",
+      "path": "../M2RG.MyTimesheet.Encryption/M2RG.MyTimesheet.Encryption.csproj",
+      "msbuildProject": "../M2RG.MyTimesheet.Encryption/M2RG.MyTimesheet.Encryption.csproj"
+    },
     "M2RG.MyTimesheet.Flunt/1.0.0": {
       "type": "project",
       "path": "../M2RG.MyTimesheet.Flunt/M2RG.MyTimesheet.Flunt.csproj",
@@ -6583,6 +6617,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "M2RG.MyTimesheet.DTO >= 1.0.0",
       "M2RG.MyTimesheet.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.4",
@@ -6622,6 +6657,9 @@
           "projectReferences": {
             "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Domain\\M2RG.MyTimesheet.Domain.csproj": {
               "projectPath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Domain\\M2RG.MyTimesheet.Domain.csproj"
+            },
+            "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.DTO\\M2RG.MyTimesheet.DTO.csproj": {
+              "projectPath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.DTO\\M2RG.MyTimesheet.DTO.csproj"
             }
           }
         }

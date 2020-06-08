@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\M2RG.MyTimesheet.Encryption\M2RG.MyTimesheet.Encryption.csproj" />
     <ProjectReference Include="..\M2RG.MyTimesheet.Flunt\M2RG.MyTimesheet.Flunt.csproj" />
   </ItemGroup>
 

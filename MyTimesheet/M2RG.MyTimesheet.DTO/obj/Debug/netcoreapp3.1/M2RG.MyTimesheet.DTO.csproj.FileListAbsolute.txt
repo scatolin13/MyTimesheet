@@ -6,3 +6,7 @@ D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.csproj.CoreCompileInputs.cache
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.dll
 D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.dll
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\bin\Debug\netcoreapp3.1\M2RG.MyTimesheet.Flunt.pdb
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.csprojAssemblyReference.cache
+D:\PROJETOS\Github\MyTimesheet\M2RG.MyTimesheet.DTO\obj\Debug\netcoreapp3.1\M2RG.MyTimesheet.DTO.csproj.CopyComplete
