@@ -9,6 +9,11 @@ namespace M2RG.MyTimesheet.Repositories.Context
         {
         }
 
+        public TimesheetContext(DbContextOptions<TimesheetContext> options)
+           : base(options)
+        {
+        }
+
         public virtual DbSet<Calendarios> Calendarios { get; set; }
         public virtual DbSet<Empresas> Empresas { get; set; }
         public virtual DbSet<Escalas> Escalas { get; set; }
@@ -18,6 +23,11 @@ namespace M2RG.MyTimesheet.Repositories.Context
         public virtual DbSet<Perfis> Perfis { get; set; }
         public virtual DbSet<Usuarios> Usuarios { get; set; }
         public virtual DbSet<UsuariosEmpresas> UsuariosEmpresas { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

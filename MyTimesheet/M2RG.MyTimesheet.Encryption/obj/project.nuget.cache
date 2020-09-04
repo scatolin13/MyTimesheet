@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5EZUu//ZoZEF8BC/c2V4feH0OXgHQJKuj3p2M+DkXTBqQd/RDruUZOFEA2qDV6lMhOq9abjk5rvo0p4aPvEhA==",
+  "dgSpecHash": "w7e3D/U/1IvkurOGwRuoDG7gybIIh3pQDF7LEFPwRUcPtLQjCGEiGvUg9VN7uf/SM9Wfi9PdvKtmSeWKopIPaA==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.Encryption\\M2RG.MyTimesheet.Encryption.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Scatolin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

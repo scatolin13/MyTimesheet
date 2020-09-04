@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ql3MOanJnWSBi1qVy08xST7n6X8BUdQmo0HekoQ1jJeu7pi8IlSa6EzKznaH75SU0y7ePvlFFkvIZ6FNCPkPvQ==",
+  "dgSpecHash": "hSCUFzADuVfN3t/Dt5egZ7Jh9G2ZBs732tTnhxsK6O6T3FpVTgoAmyHtmWMUyRoH9fBr3cXIWFASsttjGnXhLw==",
   "success": true,
   "projectFilePath": "D:\\PROJETOS\\Github\\MyTimesheet\\M2RG.MyTimesheet.DTO\\M2RG.MyTimesheet.DTO.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Scatolin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
