@@ -5,14 +5,8 @@ namespace M2RG.MyTimesheet.Domain.Models
 {
     public partial class Feriados : EntityBase
     {
-        public Feriados()
-        {
-            Id = 0;
-        }
-
         public Feriados(int id)
         {
-            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
 
             if (IsValid)
                 Id = id;
@@ -29,6 +23,15 @@ namespace M2RG.MyTimesheet.Domain.Models
                 FeriadoFixo = feriadoFixo;
                 FeriadoNacional = feriadoNacional;
             }
+
+            return this;
+        }
+
+        public Feriados Alterar(DateTime data, string descricao, bool feriadoFixo, bool feriadoNacional)
+        {
+            IsGreaterThan(Id, 0, EntityName, "ID", "deve ser maior que zero");
+
+            Adicionar(data, descricao, feriadoFixo, feriadoNacional);
 
             return this;
         }

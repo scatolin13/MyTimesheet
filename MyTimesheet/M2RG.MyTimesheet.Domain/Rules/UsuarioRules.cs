@@ -5,15 +5,8 @@ namespace M2RG.MyTimesheet.Domain.Models
 {
     public partial class Usuarios : EntityBase
     {
-        public Usuarios()
-        {
-            Id = 0;
-        }
-
         public Usuarios(int id)
         {
-            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
-
             if (IsValid)
                 Id = id;
         }
@@ -22,22 +15,19 @@ namespace M2RG.MyTimesheet.Domain.Models
         {
             IsNotNullOrWhiteSpace(nome, EntityName, "Nome", "não pode ser vazio");
             IsCPF(cpf, EntityName, "CPF", "inválido");
-            IsEmail(email, EntityName, "E-Mail", "inválido");
             IsNotNullOrWhiteSpace(login, EntityName, "Login", "não pode ser vazio");
-            IsPassword(senha, EntityName, "Senha", "deve conter no mínimo 8 caracteres, pelo menos 1 letra maiúscula e 1 minúscula, 1 números e 1 caracter especial");
+
+            AlterarSenha(senha);
+            AlterarEmail(email);
 
             if (IsValid)
             {
                 Nome = nome;
                 Cpf = cpf;
                 Rg = rg;
-                Email = email;
                 Login = login;
-                Senha = Encryption.Rijndael.Decrypt(senha);
                 Ativar();
-
-                if (Id == 0)
-                    DataCadastro = DateTime.Now;
+                DataCadastro = DateTime.Now;
             }
 
             return this;
@@ -45,9 +35,10 @@ namespace M2RG.MyTimesheet.Domain.Models
 
         public Usuarios Alterar(string nome, string cpf, string rg)
         {
+            IsGreaterThan(Id, 0, EntityName, "ID", "deve ser maior que zero");
             IsNotNullOrWhiteSpace(nome, EntityName, "Nome", "não pode ser vazio");
             IsCPF(cpf, EntityName, "CPF", "inválido");
-            
+
             if (IsValid)
             {
                 Nome = nome;

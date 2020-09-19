@@ -12,8 +12,6 @@ namespace M2RG.MyTimesheet.Domain.Models
 
         public Parametros(int id)
         {
-            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
-
             if (IsValid)
                 Id = id;
         }
@@ -26,6 +24,26 @@ namespace M2RG.MyTimesheet.Domain.Models
             if (IsValid)
             {
                 EmpresaId = empresaId;
+                CargaHorariaDia = cargaHorariaDia;
+                ConsiderarSegunda = considerarSegunda;
+                ConsiderarTerca = considerarTerca;
+                ConsiderarQuarta = considerarQuarta;
+                ConsiderarQuinta = considerarQuinta;
+                ConsiderarSexta = considerarSexta;
+                ConsiderarSabado = considerarSabado;
+                ConsiderarDomingo = considerarDomingo;
+            }
+
+            return this;
+        }
+
+        public Parametros Alterar(TimeSpan cargaHorariaDia, bool considerarSegunda, bool considerarTerca, bool considerarQuarta,
+                bool considerarQuinta, bool considerarSexta, bool considerarSabado, bool considerarDomingo)
+        {
+            IsGreaterThan(Id, 0, EntityName, "ID", "deve ser maior que zero");
+
+            if (IsValid)
+            {
                 CargaHorariaDia = cargaHorariaDia;
                 ConsiderarSegunda = considerarSegunda;
                 ConsiderarTerca = considerarTerca;

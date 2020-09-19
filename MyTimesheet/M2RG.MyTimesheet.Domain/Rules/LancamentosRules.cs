@@ -5,15 +5,8 @@ namespace M2RG.MyTimesheet.Domain.Models
 {
     public partial class Lancamentos : EntityBase
     {
-        public Lancamentos()
-        {
-            Id = 0;
-        }
-
         public Lancamentos(int id)
         {
-            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
-
             if (IsValid)
                 Id = id;
         }
@@ -33,5 +26,13 @@ namespace M2RG.MyTimesheet.Domain.Models
             return this;
         }
 
+        public Lancamentos Alterar(int agendaId, DateTime horario, bool entrada)
+        {
+            IsGreaterThan(Id, 0, EntityName, "ID", "deve ser maior que zero");
+
+            Adicionar(agendaId, horario, entrada);
+
+            return this;
+        }
     }
 }

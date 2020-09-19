@@ -5,15 +5,8 @@ namespace M2RG.MyTimesheet.Domain.Models
 {
     public partial class Escalas : EntityBase
     {
-        public Escalas()
-        {
-            Id = 0;
-        }
-
         public Escalas(int id)
         {
-            IsGreaterThan(id, 0, EntityName, "ID", "deve ser maior que zero");
-
             if (IsValid)
                 Id = id;
         }
@@ -31,6 +24,21 @@ namespace M2RG.MyTimesheet.Domain.Models
                 Data = data;
                 EmpresaId = empresaId;
                 UsuarioId = usuarioId;
+                Descricao = descricao;
+            }
+
+            return this;
+        }
+
+        public Escalas Alterar(DateTime data, string descricao)
+        {
+            IsGreaterThan(Id, 0, EntityName, "ID", "deve ser maior que zero");
+            IsBetween(data.Date, EntityName, DateTime.Now.AddMonths(-1).Date, DateTime.Now.AddMonths(1).Date, "Data", "deve ser do mês atual");
+            IsNotNullOrWhiteSpace(descricao, EntityName, "Descrição", "não pode ser vazio");
+
+            if (IsValid)
+            {
+                Data = data;
                 Descricao = descricao;
             }
 
